@@ -98,6 +98,7 @@ for ppath in sys.argv[2:]:
         pconf['icon'] = tgt
 
     pconf['downloadURL'] = '%s.zip' % pid
+    print " * Including %s" % pid
     outdata.append(pconf)
 
 f = open(os.path.join(outpath, 'plugins-v1.json'), 'w')
