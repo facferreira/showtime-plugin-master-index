@@ -1,0 +1,12 @@
+[submodule "plugins/headweb"]
+	path = plugins/headweb
+	url = git://github.com/andoma/showtime-plugin-headweb.git
+[submodule "plugins/svtplay"]
+	path = plugins/svtplay
+	url = git://github.com/andoma/showtime-plugin-svtplay.git
+[submodule "plugins/tv4play"]
+	path = plugins/tv4play
+	url = git://github.com/andoma/showtime-plugin-tv4play.git
+[submodule "plugins/viastream"]
+	path = plugins/viastream
+	url = git://github.com/andoma/showtime-plugin-viastream.git
