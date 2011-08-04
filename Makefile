@@ -5,3 +5,6 @@ all:
 clean:
 	rm -rf output
 	rm *~
+
+upload:
+	rsync -rv output/ ${SHOWTIMEPLUGINREPO}
