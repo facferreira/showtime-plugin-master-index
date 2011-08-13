@@ -10,3 +10,6 @@
 [submodule "plugins/viastream"]
 	path = plugins/viastream
 	url = git://github.com/andoma/showtime-plugin-viastream.git
+[submodule "plugins/dropbox"]
+	path = plugins/dropbox
+	url = git://github.com/andoma/showtime-plugin-dropbox.git
